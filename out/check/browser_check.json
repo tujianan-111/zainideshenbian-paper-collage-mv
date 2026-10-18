@@ -1,0 +1,65 @@
+{
+  "video_sha256": "ddc25a6c76b12e904b752a7f6fe46051191be29b5f23e5e460e399b1dd727339",
+  "deterministic_frames": [
+    {
+      "time": 0.5,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 2.8,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 5.8,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 15.5,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 20.8,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 22.75,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 24,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 33.5,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 34.5,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    },
+    {
+      "time": 35.2,
+      "max_channel_delta": 0,
+      "mean_channel_delta": 0
+    }
+  ],
+  "playback_started": true,
+  "seek_ok": true,
+  "player": {
+    "duration": 35.5,
+    "width": 1920,
+    "height": 1080,
+    "readyState": 4,
+    "error": null,
+    "currentTime": 20.8
+  }
+}

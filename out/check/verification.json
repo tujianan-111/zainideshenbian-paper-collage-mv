@@ -1,0 +1,22 @@
+{
+  "video": "C:\\Users\\tujianan\\Documents\\ChatGPT\\paper-collage-mv-setup\\zainideshenbian-popup\\out\\在你的身边_立体书版.mp4",
+  "duration_seconds": 35.5,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "frames": 852,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": 44100,
+  "full_decode_ok": true,
+  "black_intervals": [],
+  "peak_dbfs": -1.5,
+  "mean_dbfs": -14.2,
+  "lyric_lines": 6,
+  "lyric_characters": 56,
+  "alignment_review_flags": [],
+  "size_bytes": 71105579,
+  "sha256": "ddc25a6c76b12e904b752a7f6fe46051191be29b5f23e5e460e399b1dd727339",
+  "note": "Automated validation and decoded-frame inspection; no claim of independent human listening."
+}
